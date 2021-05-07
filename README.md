@@ -55,4 +55,4 @@
   - git diff master
     - Shows difference from master to your branch
   -  git merge master
-    -  Keeps branch up to date
+    - Keeps branch up to date
