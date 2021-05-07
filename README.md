@@ -24,6 +24,14 @@
     - Push the file(s) to Github
   - #### git pull ####
     - Pulls and updates your code from Gitgub
+  - #### git reset #### 
+    - UnStage file(s)
+  - #### git reset HEAD~1 ####
+    - Undo last commit
+  - #### git log ####
+    - Show all your commits
+  - #### git reset --hard hash ####
+    - Unstage and remove the file(s)
 
 - ## Branching ##
   - #### git branch ####
@@ -44,3 +52,7 @@
 - ### Feature Branch ###
   - git push -u origin 'name-of-branch'
     - Push changes to the named branch
+  - git diff master
+    - Shows difference from master to your branch
+  -  git merge master
+    -  Keeps branch up to date
