@@ -54,5 +54,5 @@
     - Push changes to the named branch
   - git diff master
     - Shows difference from master to your branch
-  -  git merge master
+  - git merge master
     - Keeps branch up to date
